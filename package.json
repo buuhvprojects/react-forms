@@ -1,6 +1,6 @@
 {
 	"name": "@buuhv/react-forms",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"private": false,
 	"dependencies": {
 		"@testing-library/react": "^11.2.5",
@@ -57,7 +57,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/geeknection/react-forms.git"
+		"url": "git+https://github.com/buuhvprojects/react-forms.git"
 	},
 	"keywords": [
 		"react-forms",
@@ -68,7 +68,7 @@
 	"author": "BuuhV",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/geeknection/react-forms/issues"
+		"url": "https://github.com/buuhvprojects/react-forms/issues"
 	},
 	"publishConfig": {
 		"registry": "https://registry.npmjs.org/",
